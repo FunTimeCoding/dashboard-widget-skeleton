@@ -1,5 +1,4 @@
-# Dashboard Widget Skeleton
-
+# DashboardWidgetSkeleton
 
 To install, open Finder and double click the .wdgt bundle. Be sure there are no uncommited changes.
 Note: This will move the directory to `~/Library/Widgets`. Restore all files by typing `git reset --hard`.
